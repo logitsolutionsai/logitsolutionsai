@@ -1,6 +1,6 @@
 # Logit Solutions AI
 
-**AI product studio in Lahore, Pakistan.** We design, build and support production-ready AI products for startups and growing businesses, from concept to launch and ongoing support.
+**AI product studio.** We design, build and support production-ready AI products for startups and growing businesses, from concept to launch and ongoing support.
 
 We also teach AI, machine learning and software with visual lessons. Every number on screen comes from a real training run.
 
